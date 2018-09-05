@@ -1,0 +1,8 @@
+{
+    "typescript.extension.sortImports.sortMethod": "path",
+    "typescript.extension.sortImports.pathSortOrder": [
+        "relativeUpLevel",
+        "relativeDownLevel",
+        "package"
+    ]
+}
